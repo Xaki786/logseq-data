@@ -2,6 +2,7 @@
 	- 15th April - 31st December
 	- 8.5 months or
 	- 36 Weeks
+	- dedicated one always gets 4 pomodoros daily at least
 - [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
@@ -10,6 +11,8 @@
   logseq.order-list-type:: number
 	- React Mastery
 	  logseq.order-list-type:: number
+		- bullet proof react
+		  logseq.order-list-type:: number
 	- Next Mastery
 	  logseq.order-list-type:: number
 	- Node Mastery
