@@ -11,7 +11,7 @@
   logseq.order-list-type:: number
 	- React Mastery
 	  logseq.order-list-type:: number
-		- bullet proof react
+		- Bullet proof react
 		  logseq.order-list-type:: number
 	- Next Mastery
 	  logseq.order-list-type:: number
@@ -37,6 +37,8 @@
 		  logseq.order-list-type:: number
 		- Javascript
 		  logseq.order-list-type:: number
+	- 30 articles re articulated and saved
+	  logseq.order-list-type:: number
 - Git Mastery (1 week dedicated)
   logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
