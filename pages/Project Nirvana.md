@@ -19,6 +19,8 @@
   logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
+- Command Line Mastery (Along the way)
+  logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
@@ -31,7 +33,7 @@
   logseq.order-list-type:: number
 - Data structures practice Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
-- Portfolio Mastery
+- Portfolio Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
-- Linked in Mastery
+- Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
