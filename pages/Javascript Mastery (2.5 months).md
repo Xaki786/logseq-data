@@ -1,0 +1,4 @@
+- Eloquent Javascript
+- You Don't know JS
+- Data structures in JS
+-
