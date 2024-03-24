@@ -2,4 +2,5 @@
 - 60 articles re articulated and saved
 - any book
 - practice
-- convert all {{embed  }}
+- convert all [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
+-
