@@ -23,4 +23,8 @@
   logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery
   logseq.order-list-type:: number
+- Social media history Mastery
+  logseq.order-list-type:: number
+- Reading Mastery
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number
