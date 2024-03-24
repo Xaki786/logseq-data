@@ -11,4 +11,16 @@
   logseq.order-list-type:: number
 - Node Mastery
   logseq.order-list-type:: number
+- Nest Mastery
+  logseq.order-list-type:: number
+- Testing Mastery
+  logseq.order-list-type:: number
+- Python Mastery
+  logseq.order-list-type:: number
+- Portfolio Mastery
+  logseq.order-list-type:: number
+- Linked in Mastery
+  logseq.order-list-type:: number
+- Artificial Intelligence Tools Mastery
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number
