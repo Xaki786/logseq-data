@@ -81,7 +81,12 @@
 	  logseq.order-list-type:: number
 	- Git docs
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Git best practices
+	  logseq.order-list-type:: number
+	- branching strategy
+	  logseq.order-list-type:: number
+	- CI/CD pipeline aka GitHub actions etc
+	  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
 	- 2 pomodoros per week
