@@ -49,7 +49,7 @@
 	  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
-	- on weekends (2 pomodoros per week)
+	- on weekends
 	  logseq.order-list-type:: number
 	- every holiday
 	  logseq.order-list-type:: number
