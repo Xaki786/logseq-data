@@ -56,10 +56,18 @@
 	  logseq.order-list-type:: number
 - Reading Mastery (Along the way)
   logseq.order-list-type:: number
+	- 2 pomodoros daily
+	  logseq.order-list-type:: number
 - Open source Mastery  (Along the way)
   logseq.order-list-type:: number
+	- 2 pomodoros daily
+	  logseq.order-list-type:: number
 - Data structures related material (Along the way)
   logseq.order-list-type:: number
+	- 3 pomodoros per week
+	  logseq.order-list-type:: number
+	- Groking Algorithms
+	  logseq.order-list-type:: number
 - Data structures practice Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
 - Portfolio Mastery (After all of the above are achieved)
