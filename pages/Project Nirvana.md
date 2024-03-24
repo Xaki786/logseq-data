@@ -1,4 +1,4 @@
-- Here are the list of goals which I want to achieve in 2024
+- Here are the list of goals which I want to achieve in 2024. Time frame to achieve this is
 - Javascript Mastery
   logseq.order-list-type:: number
 - Typescript Mastery
@@ -27,4 +27,5 @@
   logseq.order-list-type:: number
 - Reading Mastery
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- Open source Mastery
+  logseq.order-list-type:: number
