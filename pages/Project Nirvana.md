@@ -2,10 +2,11 @@
 	- 15th April - 31st December
 	- 8.5 months or
 	- 36 Weeks
-- [[Javascript Mastery (2.5 months)(15th April - 30th June))]]
+- [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
   logseq.order-list-type:: number
-- Typescript Mastery (2 months)
+- [[Typescript Mastery (2 months)]]
   logseq.order-list-type:: number
+- logseq.order-list-type:: number
 - Frameworks Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- React Mastery
