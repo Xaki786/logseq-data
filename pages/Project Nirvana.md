@@ -5,7 +5,7 @@
   logseq.order-list-type:: number
 - Typescript Mastery (2 months)
   logseq.order-list-type:: number
-- Command Line Mastery
+- Command Line Mastery (Along the way)
   logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
@@ -19,15 +19,15 @@
 	  logseq.order-list-type:: number
 	- Nest Mastery
 	  logseq.order-list-type:: number
-- Testing Mastery ()
+- Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
-- Python Mastery
+- Python Mastery (Along the way)
   logseq.order-list-type:: number
 - Portfolio Mastery
   logseq.order-list-type:: number
 - Linked in Mastery
   logseq.order-list-type:: number
-- Artificial Intelligence Tools Mastery
+- Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
 - Social media history Mastery
   logseq.order-list-type:: number
