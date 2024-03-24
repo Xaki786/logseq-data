@@ -21,14 +21,22 @@
 	  logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
-	- All basic Data structures implemented
+	- All basic Data structures implemented twice
 	  logseq.order-list-type:: number
 	  collapsed:: true
 		- Python
 		  logseq.order-list-type:: number
 		- Javascript
 		  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Groking Algorithms thrice
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Reading and understanding
+		  logseq.order-list-type:: number
+		- Python
+		  logseq.order-list-type:: number
+		- Javascript
+		  logseq.order-list-type:: number
 - Git Mastery (1 week dedicated)
   logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
