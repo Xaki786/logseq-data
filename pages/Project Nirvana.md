@@ -23,15 +23,17 @@
   logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
-- Portfolio Mastery
-  logseq.order-list-type:: number
-- Linked in Mastery
-  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
 - Social media learning history Mastery (Along the way)
   logseq.order-list-type:: number
 - Reading Mastery (Along the way)
   logseq.order-list-type:: number
-- Open source Mastery
+- Open source Mastery  (Along the way)
+  logseq.order-list-type:: number
+- Datasctructures practice Mastery (After all of the above are achieved)
+  logseq.order-list-type:: number
+- Portfolio Mastery
+  logseq.order-list-type:: number
+- Linked in Mastery
   logseq.order-list-type:: number
