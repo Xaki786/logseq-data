@@ -1,2 +1,5 @@
 - Udemy Course
--
+- 60 articles re articulated and saved
+- any book
+- practice
+- convert all {{embed  }}
