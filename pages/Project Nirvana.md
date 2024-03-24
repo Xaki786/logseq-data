@@ -9,7 +9,7 @@
   logseq.order-list-type:: number
 - Frameworks Mastery (1 month dedicated)
   logseq.order-list-type:: number
-	- React Mastery
+	- React Mastery ()
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
@@ -27,9 +27,16 @@
 		  logseq.order-list-type:: number
 	- Node Mastery
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Docs fully read and understood and if necessary implemented
+		  logseq.order-list-type:: number
+		- Best practices guides documented and understood
+		  logseq.order-list-type:: number
 	- Nest Mastery
 	  logseq.order-list-type:: number
+		- Docs fully read and understood and if necessary implemented
+		  logseq.order-list-type:: number
+		- Best practices guides documented and understood
+		  logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- All basic Data structures implemented twice
