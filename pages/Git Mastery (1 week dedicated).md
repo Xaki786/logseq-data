@@ -2,6 +2,8 @@
   logseq.order-list-type:: number
 - Git docs
   logseq.order-list-type:: number
+- Git book optional
+  logseq.order-list-type:: number
 - Git best practices
   logseq.order-list-type:: number
 - branching strategy
