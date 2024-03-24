@@ -20,6 +20,14 @@
   logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
+	- Unit testing
+	  logseq.order-list-type:: number
+	- Integration Testing
+	  logseq.order-list-type:: number
+	- End to end testing
+	  logseq.order-list-type:: number
+	- test driven development
+	  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
 	- 1 pomodoro daily
@@ -40,6 +48,10 @@
 	  logseq.order-list-type:: number
 - Social media learning history Mastery (Along the way)
   logseq.order-list-type:: number
+	- 1 pomodoro daily
+	  logseq.order-list-type:: number
+	- re articulation
+	  logseq.order-list-type:: number
 - Reading Mastery (Along the way)
   logseq.order-list-type:: number
 - Open source Mastery  (Along the way)
