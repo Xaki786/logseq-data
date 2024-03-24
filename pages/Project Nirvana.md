@@ -1,4 +1,6 @@
 - Here are the list of goals which I want to achieve in 2024. Time frame to achieve this is
+	- 8.5 months
+	- 36 Weeks
 - Javascript Mastery
   logseq.order-list-type:: number
 - Typescript Mastery
