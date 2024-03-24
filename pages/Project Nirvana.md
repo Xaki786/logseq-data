@@ -7,7 +7,7 @@
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
   logseq.order-list-type:: number
-- Git Mastery (1 week dedicated)
+- [[Git Mastery (1 week dedicated)]]
   logseq.order-list-type:: number
 	- GitHub docs
 	  logseq.order-list-type:: number
@@ -143,7 +143,7 @@
 	  logseq.order-list-type:: number
 - Portfolio Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
-	- Refactor DDD based code
+	- Refactor DDD based carbonteq code
 	  logseq.order-list-type:: number
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
