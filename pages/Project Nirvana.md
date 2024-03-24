@@ -9,7 +9,7 @@
   logseq.order-list-type:: number
 - Frameworks Mastery (1 month dedicated)
   logseq.order-list-type:: number
-	- React Mastery ()
+	- React Mastery (week 1)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
@@ -19,19 +19,19 @@
 		  logseq.order-list-type:: number
 		- Redux optional
 		  logseq.order-list-type:: number
-	- Next Mastery
+	- Next Mastery (week 2)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
-	- Node Mastery
+	- Node Mastery (week 3)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
-	- Nest Mastery
+	- Nest Mastery (week 4)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
@@ -57,8 +57,6 @@
 		  logseq.order-list-type:: number
 	- 30 articles re articulated and saved
 	  logseq.order-list-type:: number
-- Git Mastery (1 week dedicated)
-  logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- Unit testing
@@ -71,6 +69,8 @@
 	  logseq.order-list-type:: number
 	- Write tests for Frameworks Mastery
 	  logseq.order-list-type:: number
+- Git Mastery (1 week dedicated)
+  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
 	- 2 pomodoros per week
