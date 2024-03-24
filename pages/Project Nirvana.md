@@ -41,7 +41,7 @@
 		  logseq.order-list-type:: number
 		- At least one project with best practices
 		  logseq.order-list-type:: number
-		- design patterns
+		- Design patterns
 		  logseq.order-list-type:: number
 	- Node Mastery (week 3)
 	  logseq.order-list-type:: number
@@ -50,6 +50,8 @@
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
 		- At least one project with best practices
+		  logseq.order-list-type:: number
+		- Design patterns
 		  logseq.order-list-type:: number
 	- Nest Mastery (week 4)
 	  logseq.order-list-type:: number
@@ -133,7 +135,15 @@
 	  logseq.order-list-type:: number
 - Data structures practice Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
+	- Leetcode
+	  logseq.order-list-type:: number
+	- Code wars
+	  logseq.order-list-type:: number
+	- Code puzzles
+	  logseq.order-list-type:: number
 - Portfolio Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
+	- Refactor DDD based code
+	  logseq.order-list-type:: number
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
