@@ -1,4 +1,5 @@
 - Here are the list of goals which I want to achieve in 2024. Time frame to achieve this is
+	- Mid April
 	- 8.5 months or
 	- 36 Weeks
 - Javascript Mastery (2.5 months)
@@ -30,6 +31,8 @@
 - Reading Mastery (Along the way)
   logseq.order-list-type:: number
 - Open source Mastery  (Along the way)
+  logseq.order-list-type:: number
+- Data structures related material (Along the way)
   logseq.order-list-type:: number
 - Data structures practice Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
