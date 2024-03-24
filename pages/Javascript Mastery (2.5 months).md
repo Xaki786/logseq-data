@@ -1,4 +1,5 @@
 - Eloquent Javascript
 - You Don't know JS
 - Data structures in JS
--
+- mdn docs (optional)
+- 60 Javascript actricles => re articulated and saved
