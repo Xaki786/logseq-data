@@ -9,16 +9,6 @@
   logseq.order-list-type:: number
 - [[Git Mastery (1 week dedicated)]]
   logseq.order-list-type:: number
-	- GitHub docs
-	  logseq.order-list-type:: number
-	- Git docs
-	  logseq.order-list-type:: number
-	- Git best practices
-	  logseq.order-list-type:: number
-	- branching strategy
-	  logseq.order-list-type:: number
-	- CI/CD pipeline aka GitHub actions etc
-	  logseq.order-list-type:: number
 - Frameworks Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- React Mastery (week 1)
