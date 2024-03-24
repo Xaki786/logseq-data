@@ -1,4 +1,5 @@
 - Eloquent Javascript (1 month)
+	- 1 chapter per day atleast
 - You Don't know JS (1 month)
 - Data structures in JS (Along the way)
 - 60 Javascript actricles => re articulated and saved (Along the way)
