@@ -7,6 +7,18 @@
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
   logseq.order-list-type:: number
+- Git Mastery (1 week dedicated)
+  logseq.order-list-type:: number
+	- GitHub docs
+	  logseq.order-list-type:: number
+	- Git docs
+	  logseq.order-list-type:: number
+	- Git best practices
+	  logseq.order-list-type:: number
+	- branching strategy
+	  logseq.order-list-type:: number
+	- CI/CD pipeline aka GitHub actions etc
+	  logseq.order-list-type:: number
 - Frameworks Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- React Mastery (week 1)
@@ -17,6 +29,8 @@
 		  logseq.order-list-type:: number
 		- Other best practices guides documented and understood
 		  logseq.order-list-type:: number
+		- React design patterns
+		  logseq.order-list-type:: number
 		- Redux optional
 		  logseq.order-list-type:: number
 	- Next Mastery (week 2)
@@ -26,6 +40,8 @@
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
 		- At least one project with best practices
+		  logseq.order-list-type:: number
+		- design patterns
 		  logseq.order-list-type:: number
 	- Node Mastery (week 3)
 	  logseq.order-list-type:: number
@@ -74,18 +90,6 @@
 		- Javascript
 		  logseq.order-list-type:: number
 	- 30 articles re articulated and saved
-	  logseq.order-list-type:: number
-- Git Mastery (1 week dedicated)
-  logseq.order-list-type:: number
-	- GitHub docs
-	  logseq.order-list-type:: number
-	- Git docs
-	  logseq.order-list-type:: number
-	- Git best practices
-	  logseq.order-list-type:: number
-	- branching strategy
-	  logseq.order-list-type:: number
-	- CI/CD pipeline aka GitHub actions etc
 	  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
