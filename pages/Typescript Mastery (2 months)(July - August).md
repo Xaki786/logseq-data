@@ -1,3 +1,4 @@
+## 4 pomodoros daily
 - Udemy Course (1 month)
 - practice above course (1 month)
 - 60 articles re articulated and saved (Along the way)
