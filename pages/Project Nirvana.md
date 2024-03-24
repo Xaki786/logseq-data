@@ -21,6 +21,8 @@
 	  logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
+- Git
+  logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- Unit testing
