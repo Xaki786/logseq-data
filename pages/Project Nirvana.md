@@ -2,7 +2,7 @@
 	- 15th April - 31st December
 	- 8.5 months or
 	- 36 Weeks
-- Javascript Mastery (2.5 months)
+- [[Javascript Mastery (2.5 months)]]
   logseq.order-list-type:: number
 - Typescript Mastery (2 months)
   logseq.order-list-type:: number
