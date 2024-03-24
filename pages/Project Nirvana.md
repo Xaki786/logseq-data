@@ -9,7 +9,9 @@
   logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
-- React Mastery
+- Frameworks Mastery
+  logseq.order-list-type:: number
+- React and Next Mastery
   logseq.order-list-type:: number
 - Node Mastery
   logseq.order-list-type:: number
