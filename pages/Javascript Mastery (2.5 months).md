@@ -1,5 +1,5 @@
-- Eloquent Javascript
-- You Don't know JS
-- Data structures in JS
-- mdn docs (optional)
-- 60 Javascript actricles => re articulated and saved
+- Eloquent Javascript (1 month)
+- You Don't know JS (1 month)
+- Data structures in JS (Along the way)
+- 60 Javascript actricles => re articulated and saved (Along the way)
+-
