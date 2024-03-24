@@ -29,9 +29,9 @@
   logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
-- Social media history Mastery
+- Social media learning history Mastery (Along the way)
   logseq.order-list-type:: number
-- Reading Mastery
+- Reading Mastery (Along the way)
   logseq.order-list-type:: number
 - Open source Mastery
   logseq.order-list-type:: number
