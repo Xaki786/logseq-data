@@ -25,17 +25,23 @@
 		  logseq.order-list-type:: number
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
+		- At least one project with best practices
+		  logseq.order-list-type:: number
 	- Node Mastery (week 3)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
 		- Best practices guides documented and understood
 		  logseq.order-list-type:: number
+		- At least one project with best practices
+		  logseq.order-list-type:: number
 	- Nest Mastery (week 4)
 	  logseq.order-list-type:: number
 		- Docs fully read and understood and if necessary implemented
 		  logseq.order-list-type:: number
 		- Best practices guides documented and understood
+		  logseq.order-list-type:: number
+		- At least one project with best practices
 		  logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
@@ -65,7 +71,7 @@
 	  logseq.order-list-type:: number
 	- End to end testing (week 3) => FE, BE
 	  logseq.order-list-type:: number
-	- test driven development
+	- test driven development (week 4) => FE, BE
 	  logseq.order-list-type:: number
 	- Write tests for Frameworks Mastery
 	  logseq.order-list-type:: number
