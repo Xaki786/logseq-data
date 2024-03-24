@@ -28,9 +28,11 @@
 	  logseq.order-list-type:: number
 	- test driven development
 	  logseq.order-list-type:: number
+	- Write tests for Frameworks Mastery
+	  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
-	- 1 pomodoro daily
+	- 2 pomodoros
 	  logseq.order-list-type:: number
 	- Udemy Course + re articulation
 	  logseq.order-list-type:: number
