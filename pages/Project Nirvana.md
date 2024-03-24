@@ -22,14 +22,22 @@
   logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
+	- 1 pomodoro daily
+	  logseq.order-list-type:: number
+	- Udemy Course + re articulation
+	  logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
 	- 1 pomodoro daily
 	  logseq.order-list-type:: number
 	- Automate Boring Stuff With Python
 	  logseq.order-list-type:: number
+	- re articulation
+	  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
+	- 1 pomodoro daily
+	  logseq.order-list-type:: number
 - Social media learning history Mastery (Along the way)
   logseq.order-list-type:: number
 - Reading Mastery (Along the way)
