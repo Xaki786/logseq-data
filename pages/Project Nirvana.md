@@ -11,10 +11,17 @@
   logseq.order-list-type:: number
 	- React Mastery
 	  logseq.order-list-type:: number
+		- Docs fully read and understood and if necessary implemented
+		  logseq.order-list-type:: number
 		- Bullet proof react
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		- Redux optional
 		  logseq.order-list-type:: number
 	- Next Mastery
 	  logseq.order-list-type:: number
+		- Docs fully read and understood and if necessary implemented
+		  logseq.order-list-type:: number
 	- Node Mastery
 	  logseq.order-list-type:: number
 	- Nest Mastery
