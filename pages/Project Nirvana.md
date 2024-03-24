@@ -11,18 +11,7 @@
   logseq.order-list-type:: number
 - [[Frameworks Mastery (1 month dedicated)]]
   logseq.order-list-type:: number
-- Testing Mastery (1 month dedicated)
-  logseq.order-list-type:: number
-	- Unit testing (week 1) => FE, BE
-	  logseq.order-list-type:: number
-	- Integration Testing (week 2) => FE, BE
-	  logseq.order-list-type:: number
-	- End to end testing (week 3) => FE, BE
-	  logseq.order-list-type:: number
-	- test driven development (week 4) => FE, BE
-	  logseq.order-list-type:: number
-	- Write tests for Frameworks Mastery
-	  logseq.order-list-type:: number
+- logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- All basic Data structures implemented twice
