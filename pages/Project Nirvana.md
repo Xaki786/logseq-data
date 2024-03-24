@@ -43,6 +43,18 @@
 		  logseq.order-list-type:: number
 		- At least one project with best practices
 		  logseq.order-list-type:: number
+- Testing Mastery (1 month dedicated)
+  logseq.order-list-type:: number
+	- Unit testing (week 1) => FE, BE
+	  logseq.order-list-type:: number
+	- Integration Testing (week 2) => FE, BE
+	  logseq.order-list-type:: number
+	- End to end testing (week 3) => FE, BE
+	  logseq.order-list-type:: number
+	- test driven development (week 4) => FE, BE
+	  logseq.order-list-type:: number
+	- Write tests for Frameworks Mastery
+	  logseq.order-list-type:: number
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- All basic Data structures implemented twice
@@ -63,20 +75,13 @@
 		  logseq.order-list-type:: number
 	- 30 articles re articulated and saved
 	  logseq.order-list-type:: number
-- Testing Mastery (1 month dedicated)
-  logseq.order-list-type:: number
-	- Unit testing (week 1) => FE, BE
-	  logseq.order-list-type:: number
-	- Integration Testing (week 2) => FE, BE
-	  logseq.order-list-type:: number
-	- End to end testing (week 3) => FE, BE
-	  logseq.order-list-type:: number
-	- test driven development (week 4) => FE, BE
-	  logseq.order-list-type:: number
-	- Write tests for Frameworks Mastery
-	  logseq.order-list-type:: number
 - Git Mastery (1 week dedicated)
   logseq.order-list-type:: number
+	- GitHub docs
+	  logseq.order-list-type:: number
+	- Git docs
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
 	- 2 pomodoros per week
