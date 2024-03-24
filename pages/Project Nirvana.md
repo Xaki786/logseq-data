@@ -32,13 +32,13 @@
 	  logseq.order-list-type:: number
 - Command Line Mastery (Along the way)
   logseq.order-list-type:: number
-	- 2 pomodoros
+	- 2 pomodoros per week
 	  logseq.order-list-type:: number
 	- Udemy Course + re articulation
 	  logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
-	- 1 pomodoro daily
+	- 3 pomodoro per week
 	  logseq.order-list-type:: number
 	- Automate Boring Stuff With Python
 	  logseq.order-list-type:: number
@@ -46,7 +46,7 @@
 	  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
-	- 1 pomodoro daily
+	- 1 pomodoro per week
 	  logseq.order-list-type:: number
 - Social media learning history Mastery (Along the way)
   logseq.order-list-type:: number
