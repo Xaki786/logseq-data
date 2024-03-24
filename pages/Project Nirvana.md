@@ -59,11 +59,11 @@
 	  logseq.order-list-type:: number
 - Testing Mastery (1 month dedicated)
   logseq.order-list-type:: number
-	- Unit testing
+	- Unit testing (week 1) => FE, BE
 	  logseq.order-list-type:: number
-	- Integration Testing
+	- Integration Testing (week 2) => FE, BE
 	  logseq.order-list-type:: number
-	- End to end testing
+	- End to end testing (week 3) => FE, BE
 	  logseq.order-list-type:: number
 	- test driven development
 	  logseq.order-list-type:: number
