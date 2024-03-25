@@ -10,6 +10,8 @@
 	  logseq.order-list-type:: number
 	- https://courses.wesbos.com/account/access/6600d40b89fdef762becff9f
 	  logseq.order-list-type:: number
+	- https://github.com/nitishdayal/JavaScript30
+	  logseq.order-list-type:: number
 - [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
