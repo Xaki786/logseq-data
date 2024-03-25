@@ -4,6 +4,9 @@
 	- 36 Weeks
 	- dedicated one always gets 4 pomodoros daily at least
 - ## Primary Stuff (4 pomodoros daily at least)
+- 30 Days Javascript Challenge in Ramadan (Mar 25- April 15)
+	- https://javascript30.com/
+	- https://courses.wesbos.com/account/access/6600d40b89fdef762becff9f
 - [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
@@ -94,9 +97,6 @@
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
 - ## Tertiary Stuff (requires more thinking)
-- 30 Days Javascript Challenge in Ramadan (Mar 25- April 15)
-	- https://javascript30.com/
-	- https://courses.wesbos.com/account/access/6600d40b89fdef762becff9f
 - CS-50 course (may be one pomodoro daily)
 - [[Project Cyber]]
   logseq.order-list-type:: number
