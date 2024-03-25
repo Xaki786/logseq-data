@@ -3,7 +3,7 @@
 	- 8.5 months or
 	- 36 Weeks
 	- dedicated one always gets 4 pomodoros daily at least
-	- ### Primary Stuff
+- ## Primary Stuff (4 pomodoros daily at least)
 - [[Javascript Mastery (2.5 months)(15th April - 30th June)]]
   logseq.order-list-type:: number
 - [[Typescript Mastery (2 months)(July - August)]]
