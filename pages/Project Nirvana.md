@@ -94,3 +94,5 @@
 	  logseq.order-list-type:: number
 	- think about having one pomodoro daily into this shit
 	  logseq.order-list-type:: number
+	- lock picking
+	  logseq.order-list-type:: number
