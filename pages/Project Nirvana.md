@@ -41,6 +41,8 @@
 	  logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
+	- may be
+	  logseq.order-list-type:: number
 	- 3 pomodoro per week
 	  logseq.order-list-type:: number
 	- Automate Boring Stuff With Python
