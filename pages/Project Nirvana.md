@@ -14,6 +14,7 @@
   logseq.order-list-type:: number
 - [[Testing Mastery (1 month dedicated)]]
   logseq.order-list-type:: number
+- ## Secondary Stuff (4 pomodoros daily at least)
 - Data-structures and Algorithms Mastery (1 month dedicated)
   logseq.order-list-type:: number
 	- All basic Data structures implemented twice
