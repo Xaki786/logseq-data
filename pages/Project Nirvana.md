@@ -88,6 +88,8 @@
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
 - ## Tertiary Stuff (requires more thinking)
+- 30 Days Javascript Challenge in Ramadan (Mar 25- April 15)
+	- https://javascript30.com/
 - [[Project Cyber]]
   logseq.order-list-type:: number
 	- Think about it
