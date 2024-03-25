@@ -87,3 +87,6 @@
 	  logseq.order-list-type:: number
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
+- [[Project Cyber]]
+  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
