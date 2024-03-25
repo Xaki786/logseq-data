@@ -32,7 +32,7 @@
 		  logseq.order-list-type:: number
 		- Javascript
 		  logseq.order-list-type:: number
-	- 30 articles re articulated and saved http://www.google.com/he;;o/
+	- 30 articles re articulated and saved
 	  logseq.order-list-type:: number
 - ## Secondary Stuff (4 pomodoros daily at least)
 - Command Line Mastery (Along the way)
@@ -89,6 +89,7 @@
 	  logseq.order-list-type:: number
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
+- ## Tertiary Stuff (requires more thinking)
 - [[Project Cyber]]
   logseq.order-list-type:: number
 	- Think about it
