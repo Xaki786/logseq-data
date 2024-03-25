@@ -95,8 +95,8 @@
   logseq.order-list-type:: number
 - ## Tertiary Stuff (requires more thinking)
 - 30 Days Javascript Challenge in Ramadan (Mar 25- April 15)
-  collapsed:: true
 	- https://javascript30.com/
+	- https://courses.wesbos.com/account/access/6600d40b89fdef762becff9f
 - CS-50 course (may be one pomodoro daily)
 - [[Project Cyber]]
   logseq.order-list-type:: number
