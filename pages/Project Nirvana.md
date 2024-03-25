@@ -47,6 +47,8 @@
 	  logseq.order-list-type:: number
 	- may be along with the machine learning https://www.kaggle.com/thirty-days-of-ml
 	  logseq.order-list-type:: number
+		- https://firefortysix.com/2021/08/28/thirty-days-of-machine-learning-with-kaggle/
+		  logseq.order-list-type:: number
 	- re articulation
 	  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
