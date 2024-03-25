@@ -89,4 +89,7 @@
   logseq.order-list-type:: number
 - [[Project Cyber]]
   logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Think about it
+	  logseq.order-list-type:: number
+	- think about having one pomodoro daily into this shit
+	  logseq.order-list-type:: number
