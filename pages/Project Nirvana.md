@@ -41,11 +41,11 @@
 	  logseq.order-list-type:: number
 - Python Mastery (Along the way)
   logseq.order-list-type:: number
-	- may be
-	  logseq.order-list-type:: number
 	- 3 pomodoro per week
 	  logseq.order-list-type:: number
 	- Automate Boring Stuff With Python
+	  logseq.order-list-type:: number
+	- may be along with the machine learning https://www.kaggle.com/thirty-days-of-ml
 	  logseq.order-list-type:: number
 	- re articulation
 	  logseq.order-list-type:: number
