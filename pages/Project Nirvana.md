@@ -18,14 +18,12 @@
   logseq.order-list-type:: number
 	- All basic Data structures implemented twice
 	  logseq.order-list-type:: number
-	  collapsed:: true
 		- Python
 		  logseq.order-list-type:: number
 		- Javascript
 		  logseq.order-list-type:: number
 	- Groking Algorithms thrice
 	  logseq.order-list-type:: number
-	  collapsed:: true
 		- Reading and understanding
 		  logseq.order-list-type:: number
 		- Python
