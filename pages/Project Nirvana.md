@@ -51,6 +51,8 @@
 	  logseq.order-list-type:: number
 - Artificial Intelligence Tools Mastery (Along the way)
   logseq.order-list-type:: number
+	- start with GitHub Co pilot and chat gpt
+	  logseq.order-list-type:: number
 	- on weekends
 	  logseq.order-list-type:: number
 	- every holiday
