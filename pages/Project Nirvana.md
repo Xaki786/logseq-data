@@ -108,9 +108,11 @@
 - CS-50 course (may be one pomodoro daily)
 - [[Project Cyber]]
   logseq.order-list-type:: number
+  collapsed:: true
 	- Think about it
 	  logseq.order-list-type:: number
 	- think about having one pomodoro daily into this shit
 	  logseq.order-list-type:: number
 	- lock picking
 	  logseq.order-list-type:: number
+- logseq.order-list-type:: number
