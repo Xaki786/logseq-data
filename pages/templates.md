@@ -1,4 +1,6 @@
--
+template:: Daily Framework
+template-including-parent:: false
+
 	- TODO Workout
 	- TODO Excercise
 	  :LOGBOOK:
