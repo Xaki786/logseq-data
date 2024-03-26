@@ -106,6 +106,7 @@
   logseq.order-list-type:: number
 - ## Tertiary Stuff (requires more thinking)
 - CS-50 course (may be one pomodoro daily)
+- <check
 - [[Project Cyber]]
   logseq.order-list-type:: number
   collapsed:: true
