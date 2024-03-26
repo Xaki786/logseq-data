@@ -1,4 +1,4 @@
 -
 	- TODO Workout
-	  template:: Daily Framework
+	- template:: Daily Framework
 	-
