@@ -105,7 +105,7 @@
 - Linked in Mastery (After all of the above are achieved)
   logseq.order-list-type:: number
 - ## Tertiary Stuff (requires more thinking)
-- CS-50 course (may be one pomodoro daily)
+- CS-50 / other Harvard courses (may be one pomodoro daily)
 - [[Project Cyber]]
   logseq.order-list-type:: number
   collapsed:: true
