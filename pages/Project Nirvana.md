@@ -107,7 +107,7 @@
 - ## Tertiary Stuff (requires more thinking)
 - CS-50 / other Harvard courses (may be one pomodoro daily)
 	- {{video https://www.youtube.com/watch?v=WwEcPcfRlD0}}
-	-
+	- explore brilliant
 - [[Project Cyber]]
   logseq.order-list-type:: number
   collapsed:: true
