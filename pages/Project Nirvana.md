@@ -6,7 +6,8 @@
 - ## Thinking
 - Start practicing DSA from early on, i.e. solve one problem daily or at least learn the solution and jot down the learning's along the way
 - one day grokking algorithms reading and revising the problem and solution for previously solved DSA problem
-- other day DSA problem and solution
+- other day DSA problem and solution in Jacascript
+- other day DSA problem and solution in Python
 - ## Primary Stuff (4 pomodoros daily at least)
 - 30 Days Javascript Challenge in Ramadan (Mar 25- April 15)
   logseq.order-list-type:: number
