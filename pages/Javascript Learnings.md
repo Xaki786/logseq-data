@@ -5,4 +5,6 @@
   ```
 - use toggle for adding and removing class in vanilla js
 - ```
+  const elem = document.querySelector("selector-query");
+  elem.classList.toggle("class-to-be-added-and-removed")
   ```
