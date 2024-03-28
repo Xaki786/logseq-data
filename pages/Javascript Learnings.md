@@ -1,0 +1,1 @@
+- use de structuring for arrays also
