@@ -1,5 +1,5 @@
 ## Thinking
-- Start practicing DSA from early on, i.e. solve on e
+- Start practicing DSA from early on, i.e. solve one problem daily or at least learn the solution and jot down the learning's along the way
 - Here are the list of goals which I want to achieve in 2024. Time frame to achieve this is
 	- 15th April - 31st December
 	- 8.5 months or
