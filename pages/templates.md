@@ -16,6 +16,7 @@ template-including-parent:: false
 	  CLOCK: [2024-03-26 Tue 06:02:59]--[2024-03-26 Tue 06:02:59] =>  00:00:00
 	  CLOCK: [2024-03-26 Tue 06:03:00]--[2024-03-26 Tue 06:03:01] =>  00:00:01
 	  :END:
+		- https://github.com/nitishdayal/JavaScript30
 	- TODO Nirvana Project Review
 	- TODO Brilliant LLMS
 	- TODO Brilliant Programming
