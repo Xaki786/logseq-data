@@ -3,3 +3,6 @@
   const name = "zakria jan";
   const [firstName, lastName] = name.split(" ");
   ```
+- use toggle for adding and removing class in vanilla js
+- ```
+  ```
