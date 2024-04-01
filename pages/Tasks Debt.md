@@ -1,6 +1,7 @@
 ## Chores
 - TODO Be a filer
-	- find whole regiment
+	- find whole regiment step by step
+	- or ask Aftab to do it
 - TODO Duplicate Bike Document
 - TODO License renewal
 - TODO Drives Recovery
@@ -10,3 +11,4 @@
 -
 - ## Coding
 - ## Business
+	- Wara paao business + mithai made from waste milk
