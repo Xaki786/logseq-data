@@ -10,4 +10,6 @@
   ```
 - To view which code is changing the specific element in the DOM
 - ```
+  Inspect Element from dev tools
+  right click and move to the option breakon => 
   ```
