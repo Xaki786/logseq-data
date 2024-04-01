@@ -1,5 +1,5 @@
 - [[Javascript Learnings]]
 - ## Web development
 	- [web-development-resources](https://github.com/markodenic/web-development-resources)
-	- play list for understanding data structures
+	- [Animated play list for understanding data structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 	-
