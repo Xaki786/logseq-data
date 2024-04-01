@@ -1,5 +1,8 @@
 - [[Javascript Learnings]]
+- ## Datastructures
+	- [Animated play list for understanding data structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+	- [The Primegan DSA Course](https://frontendmasters.com/courses/algorithms/ )
+-
 - ## Web development
 	- [web-development-resources](https://github.com/markodenic/web-development-resources)
-	- [Animated play list for understanding data structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 	-
