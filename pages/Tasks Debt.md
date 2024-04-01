@@ -1,5 +1,6 @@
 ## Chores
 - TODO Be a filer
+	- find whole regiment
 - TODO Duplicate Bike Document
 - TODO License renewal
 - TODO Drives Recovery

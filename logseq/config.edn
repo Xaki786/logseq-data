@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["templates" "Tasks Debt" "Project Nirvana" "Javascript Learnings"]
+ :favorites ["Useful Resources" "templates" "Tasks Debt" "Project Nirvana" "Javascript Learnings"]
 
  ;; Set flashcards interval.
  ;; Expected value:
