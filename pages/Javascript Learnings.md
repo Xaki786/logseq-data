@@ -15,3 +15,6 @@
   or whatever option suits you in the sub menu
   all are helpful
   ```
+- For styling of console use %c in the beginning of the string. It does apply to strings only
+- ```
+  ```
