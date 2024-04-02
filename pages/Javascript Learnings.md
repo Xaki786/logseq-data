@@ -17,4 +17,5 @@
   ```
 - For styling of console use %c in the beginning of the string. It does apply to strings only
 - ```
+  console.log("%c This is a test statement", "font-size: 20px;")
   ```
