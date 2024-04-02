@@ -13,3 +13,6 @@
 	- Github Co  pilot
 - ## Business
 	- Wara paao business + mithai made from waste milk
+	- scrap business
+	- wash and press business
+		- Qasim at office
