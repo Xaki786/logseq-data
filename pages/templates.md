@@ -18,7 +18,6 @@ template-including-parent:: false
 	  :END:
 		- https://github.com/nitishdayal/JavaScript30
 	- TODO Nirvana Project Review
-	- TODO Brilliant LLMS
 	- TODO Brilliant Programming
 	  :LOGBOOK:
 	  CLOCK: [2024-03-27 Wed 21:45:58]--[2024-03-27 Wed 21:45:59] =>  00:00:01
