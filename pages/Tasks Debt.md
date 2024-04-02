@@ -10,5 +10,6 @@
 - TODO First Principles
 -
 - ## Coding
+	- Github Co  pilot
 - ## Business
 	- Wara paao business + mithai made from waste milk
