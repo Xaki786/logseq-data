@@ -6,7 +6,10 @@
 - TODO License renewal
 - TODO Drives Recovery
 - TODO password strategy
-- TODO check prize bond
+- TODO check prize bond ()April 15, 2024)
+  :LOGBOOK:
+  CLOCK: [2024-04-03 Wed 20:02:42]--[2024-04-03 Wed 20:02:44] =>  00:00:02
+  :END:
 - ## Learning
 - TODO First Principles
 -
