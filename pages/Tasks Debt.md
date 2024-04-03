@@ -5,7 +5,8 @@
 - TODO Duplicate Bike Document
 - TODO License renewal
 - TODO Drives Recovery
--
+- TODO password strategy
+- TODO check prize bond
 - ## Learning
 - TODO First Principles
 -
