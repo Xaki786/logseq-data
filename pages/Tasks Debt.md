@@ -21,3 +21,4 @@
 	- wash and press business
 		- Qasim at office
 		- Afzal
+	- furnished rooms / hostel business
