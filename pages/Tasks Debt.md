@@ -10,6 +10,9 @@
   :LOGBOOK:
   CLOCK: [2024-04-03 Wed 20:02:42]--[2024-04-03 Wed 20:02:44] =>  00:00:02
   :END:
+- ## Hobbies
+	- Lock Picking
+	- Arduino / IOT
 - ## Learning
 - TODO First Principles
 -
