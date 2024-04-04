@@ -18,6 +18,8 @@
 -
 - ## Coding
 	- Github Co  pilot
+	- Khalil books
+		- SOLID
 - ## Business
 	- Wara paao business + mithai made from waste milk
 	- scrap business
