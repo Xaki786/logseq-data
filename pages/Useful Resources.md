@@ -14,3 +14,8 @@
 - https://medium.com/with-orus/the-5-commandments-of-clean-error-handling-in-typescript-93a9cbdf1af5
 - https://medium.com/@himanshuganglani/clean-code-error-handling-d8562573d324
 - https://softwareengineering.stackexchange.com/questions/411276/how-to-handle-different-types-of-errors-in-clean-architecture
+- https://blog.logrocket.com/improve-error-handling-typescript-exhaustive-type-checking/
+- https://www.linkedin.com/pulse/mastering-error-handling-nodejs-typescript-like-pro-nikhil-vibhani-wkvdf
+- https://khalilstemmler.com/articles/enterprise-typescript-nodejs/functional-error-handling/
+- https://www.npmjs.com/package/ts-results
+- https://www.npmjs.com/package/ts-results-es
