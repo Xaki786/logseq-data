@@ -6,3 +6,11 @@
 - ## Web development
 	- [web-development-resources](https://github.com/markodenic/web-development-resources)
 	-
+- ## Error Handling
+- https://www.toptal.com/nodejs/node-js-error-handling
+- https://nanosoft.co.za/blog/post/clean-api
+- https://betterprogramming.pub/how-to-implement-a-typescript-web-app-with-clean-architecture-27c7eb745ab4
+- https://www.dhiwise.com/post/typescript-error-handling-pitfalls-and-how-to-avoid-them
+- https://medium.com/with-orus/the-5-commandments-of-clean-error-handling-in-typescript-93a9cbdf1af5
+- https://medium.com/@himanshuganglani/clean-code-error-handling-d8562573d324
+- https://softwareengineering.stackexchange.com/questions/411276/how-to-handle-different-types-of-errors-in-clean-architecture
