@@ -19,3 +19,5 @@
 - ```
   console.log("%c This is a test statement", "font-size: 20px;")
   ```
+- Difference btw ?? and short circuting i.e. || or &&
+-
