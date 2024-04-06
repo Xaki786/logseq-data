@@ -22,5 +22,5 @@
 - Difference btw ?? and short circuting i.e. || or &&
 - ```
   ?? will only move to right side if left side value is either null or undefined e.g.
-  0 ?? 5 => 0, null ?? 5 => 5, undefined ?? 5 => 5
+  0 ?? 5 => 0, null ?? 5 => 5, undefined ?? 5 => 5, {} ?? 5 => {}, "" ?? 5 => "" 
   ```
