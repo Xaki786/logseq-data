@@ -36,3 +36,6 @@
   
   ```
 -
+- Use Number.isFininte(number) to check whether it is infinity or not
+- ```
+  ```
