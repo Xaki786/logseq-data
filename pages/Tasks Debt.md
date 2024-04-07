@@ -29,4 +29,6 @@
 	- furnished rooms / hostel business
 		- Mujtaba
 - ## Udemy/youtube/books Courses to make
-	- question driven development to
+	- question driven development to get out of tutorial hell loop
+		- create several projects using this action
+-
