@@ -42,3 +42,4 @@
   	throw new Error("You can not provide infinity")
   }
   ```
+- Function defination vs
