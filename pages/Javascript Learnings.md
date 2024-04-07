@@ -44,4 +44,18 @@
   ```
 - Function definition vs function declaration
 - ```
+  Below is function definition. We can call this function only after its definition
+  
+  square(5) => would throw error because it is being used before its definition
+  const square = function(x){
+  	return x * x
+  }
+  
+  Below is function declaration
+  
+  cube(2) => would execute successfully without any errors because it has been hoisted
+  function cube(x){
+  	return x ** 3;
+  }
   ```
+-
