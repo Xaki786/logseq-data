@@ -42,4 +42,6 @@
   	throw new Error("You can not provide infinity")
   }
   ```
-- Function defination vs
+- Function definition vs function declaration
+- ```
+  ```
