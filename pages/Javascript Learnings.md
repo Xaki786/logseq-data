@@ -38,4 +38,7 @@
 -
 - Use Number.isFininte(number) to check whether it is infinity or not
 - ```
+  if(!Number.isFinite(num)){
+  	throw new Error("You can not provide infinity")
+  }
   ```
