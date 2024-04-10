@@ -32,4 +32,7 @@
 - ### Flow
 - Authentication
 - At the time of opening, I should be able to see list of categories with the habits as sub categories
-	- I should be able to log the habbit from this page
+	- the format:
+		- icon => category name
+		- icon => badge ( percentage about success )
+	- I should be able to log the habit from this page
