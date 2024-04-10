@@ -1,5 +1,5 @@
 ## User Stories
-- I want to have two type of habbits
+- I want to have two type of habits
 	- With either done or not done format (binary boolean)
 	- With entering some analog value between a range
 - I want to have categories of habbits
@@ -9,3 +9,4 @@
 - I want data to be synced in both places
 - I want to analyze every habit via graphs
 	- with range filter => weekly/ by weekly/ monthly / yearly etc
+- I should be able to edit logs for previous habits data
