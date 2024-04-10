@@ -3,9 +3,14 @@
 	- With either done or not done format (binary boolean)
 	- With entering some analog value between a range
 - I want to have categories of habbits
+  collapsed:: true
 	- work
 	- personal
 	- financials
+- I should be able to add new categories
+- Any habit should be unique to one category
+- I should be able to archive / hide the habit
+-
 - I want data to be synced in both places
 - I want to analyze every habit via graphs
 	- with range filter => weekly/ by weekly/ monthly / yearly etc
