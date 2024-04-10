@@ -24,9 +24,11 @@
 - I should be able to associate icons with the habit
 - ### Synchronization
 - I want data to be synced in both places
--
 - I should be able to export / import the data in different formats:
 	- pdf
 	- csv
 	- excel
 	- database
+- ### Flow
+- Authentication
+-
