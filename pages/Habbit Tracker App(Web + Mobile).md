@@ -5,4 +5,4 @@
 - I want to have categories of habbits
 	- work
 	- personal
-	- financial
+	- financials
