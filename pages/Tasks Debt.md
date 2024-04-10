@@ -15,6 +15,7 @@
 	- Arduino / IOT
 - ## Learning
 - TODO First Principles
+- TODO Explore Devin
 -
 - ## Coding
 	- Github Co  pilot
