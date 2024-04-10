@@ -31,4 +31,4 @@
 	- database
 - ### Flow
 - Authentication
--
+- At the time of opening, I should be able to see list of categories with the hab
