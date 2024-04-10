@@ -31,4 +31,5 @@
 	- database
 - ### Flow
 - Authentication
-- At the time of opening, I should be able to see list of categories with the hab
+- At the time of opening, I should be able to see list of categories with the habits as sub categories
+	- I should be able to log the habbit from this page
