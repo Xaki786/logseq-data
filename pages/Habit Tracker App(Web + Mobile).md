@@ -36,5 +36,5 @@
 		- icon => category name
 		- icon => badge ( percentage about success/failure/warning with proper color ) => Name => previous 5 days logs
 			- either in the form of checkboxes
-			- or in the form
+			- or in the form of other units
 	- I should be able to log the habit from this page
