@@ -10,3 +10,4 @@
 - I want to analyze every habit via graphs
 	- with range filter => weekly/ by weekly/ monthly / yearly etc
 - I should be able to edit logs for previous habits data
+-
