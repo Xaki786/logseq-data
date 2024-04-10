@@ -34,5 +34,7 @@
 - At the time of opening, I should be able to see list of categories with the habits as sub categories
 	- the format:
 		- icon => category name
-		- icon => badge ( percentage about success )
+		- icon => badge ( percentage about success/failure/warning with proper color ) => Name => previous 5 days logs
+			- either in the form of checkboxes
+			- or in the form
 	- I should be able to log the habit from this page
