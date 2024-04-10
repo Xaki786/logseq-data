@@ -7,4 +7,5 @@
 	- personal
 	- financials
 - I want data to be synced in both places
-- I want to analyze every habit
+- I want to analyze every habit via graphs
+	- with range filter => weekly/ by weekly/ monthly / yearly etc
