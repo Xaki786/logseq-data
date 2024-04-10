@@ -7,6 +7,10 @@
 - I should be able to archive / hide the habit
 - I should be able to delete the habit
 - I should be able to edit the meta data of a habit
+- I should be able to associate icons with the habit
+- I want to analyze every habit via graphs
+	- with range filter => weekly/ by weekly/ monthly / yearly etc
+- I should be able to edit logs for previous habits data
 - ### Categories
 - I want to have categories of habbits
   collapsed:: true
@@ -16,13 +20,11 @@
 - I should be able to add new categories
 - I should be able to delete the category
 - I should be able to edit the category
+- I should be able to edit the meta data of a category
+- I should be able to associate icons with the habit
 - ### Synchronization
-- I should be able to relate icons with the habit
--
 - I want data to be synced in both places
-- I want to analyze every habit via graphs
-	- with range filter => weekly/ by weekly/ monthly / yearly etc
-- I should be able to edit logs for previous habits data
+-
 - I should be able to export / import the data in different formats:
 	- pdf
 	- csv
