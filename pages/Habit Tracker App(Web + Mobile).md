@@ -3,20 +3,20 @@
 - I want to have two type of habits
 	- With either done or not done format (binary boolean)
 	- With entering some analog value between a range
+- Any habit should be unique to one category
+- I should be able to archive / hide the habit
+- I should be able to delete the habit
+- I should be able to edit the meta data of a habit
 - ### Categories
-- ### Synchronization
 - I want to have categories of habbits
   collapsed:: true
 	- work
 	- personal
 	- financials
 - I should be able to add new categories
-- Any habit should be unique to one category
-- I should be able to archive / hide the habit
-- I should be able to delete the habit
 - I should be able to delete the category
 - I should be able to edit the category
-- I should be able to edit the meta data of a habit
+- ### Synchronization
 - I should be able to relate icons with the habit
 -
 - I want data to be synced in both places
