@@ -1,2 +1,2 @@
-## [[Habit Tracker App(Web + Mobile)]]
+## [[Habit Tracker App (Web + Mobile)]]
 -
