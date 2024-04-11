@@ -31,5 +31,8 @@
 		- Mujtaba
 - ## Udemy/youtube/books Courses to make
 	- question driven development to get out of tutorial hell loop
-		- create several projects using this action
+		- [[Projects using Question Driven Development]]
+		  :LOGBOOK:
+		  CLOCK: [2024-04-12 Fri 04:22:52]--[2024-04-12 Fri 04:22:52] =>  00:00:00
+		  :END:
 	- course on testing
