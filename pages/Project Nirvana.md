@@ -99,7 +99,10 @@
 			  logseq.order-list-type:: number
 			- books
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- udemy courses
+			  logseq.order-list-type:: number
+			- github
+			  logseq.order-list-type:: number
 - Data structures related material (Along the way)
   logseq.order-list-type:: number
 	- 3 pomodoros per week
