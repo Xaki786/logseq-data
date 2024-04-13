@@ -91,7 +91,15 @@
   logseq.order-list-type:: number
 	- 2 pomodoros daily
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+		- question driven development course
+		  logseq.order-list-type:: number
+			- youtube
+			  logseq.order-list-type:: number
+			- blog series
+			  logseq.order-list-type:: number
+			- books
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - Data structures related material (Along the way)
   logseq.order-list-type:: number
 	- 3 pomodoros per week
