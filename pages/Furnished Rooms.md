@@ -25,4 +25,7 @@
 - Online Presence
 	- Booking
 	- Airbnb
-	-
+	- Olx
+	- Facebook / Instagram / Tiktok etc
+- ### Legal Requirements
+-
