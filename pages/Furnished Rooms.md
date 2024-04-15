@@ -3,4 +3,11 @@
 		- Security
 		- Maintenance
 		- Advance
-	- Two Airconditioners
+	- Two Air conditioners
+	- One washing machine
+	- One Refregrator
+	- One Cooking Stove
+	- One Gas Cylinder
+	- UPS with batteries
+	- Carpets + Foam
+	- Sec
