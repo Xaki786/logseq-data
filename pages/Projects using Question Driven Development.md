@@ -1,3 +1,3 @@
 ## [[Habit Tracker App (Web + Mobile)]]
-- ## Automatic wallpaper changer
+- ## Automatic wallpaper changer like Variety
 -
