@@ -16,7 +16,13 @@
 	- Bed
 	- Table
 	- Microwave
-	-
+	- Study Table and Chair
+	- Decoration Lights
+	- Paint + misc charges
 - ### Feasible areas:
 	- Bahria Town Rawalpindi
 	- Lahore
+- Online Presence
+	- Booking
+	- Airbnb
+	-
