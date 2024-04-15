@@ -16,4 +16,7 @@
 	- Bed
 	- Table
 	- Microwave
-- ###
+	-
+- ### Feasible areas:
+	- Bahria Town Rawalpindi
+	- Lahore
