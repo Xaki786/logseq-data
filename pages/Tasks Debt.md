@@ -25,6 +25,7 @@
 	- [[Furnished Rooms]]
 		- Mujtaba
 	- Wara paao business + mithai made from waste milk
+	- Ejaz channa business
 	- scrap business
 	- wash and press business
 		- Qasim at office
