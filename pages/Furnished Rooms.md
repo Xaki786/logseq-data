@@ -10,4 +10,10 @@
 	- One Gas Cylinder
 	- UPS with batteries
 	- Carpets + Foam
-	- Sec
+	- Security Cameras on entrance
+	- LED TV
+	- Sofas
+	- Bed
+	- Table
+	- Microwave
+- ###
