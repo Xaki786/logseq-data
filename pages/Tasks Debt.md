@@ -22,13 +22,13 @@
 	- Khalil books
 		- SOLID Principles
 - ## Business
+	- [[Furnished Rooms]]
+		- Mujtaba
 	- Wara paao business + mithai made from waste milk
 	- scrap business
 	- wash and press business
 		- Qasim at office
 		- Afzal
-	- furnished rooms / hostel business
-		- Mujtaba
 - ## Udemy/youtube/books Courses to make
 	- question driven development to get out of tutorial hell loop
 		- [[Projects using Question Driven Development]]
