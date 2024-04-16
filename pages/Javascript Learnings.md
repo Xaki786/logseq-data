@@ -81,19 +81,4 @@
   It would not wait for secondary stuuf to load. It would load the img tag but the 
   actual image would be painted later
   ```
-- Basic difference between var and let
-- NOW var: 
-  :LOGBOOK:
-  CLOCK: [2024-04-16 Tue 13:07:28]
-  :END:
-  - with var, we can use variable before it's declaration. this is called hoisting
-  - with var, we can redeclare the same variable and it is valid .e.g
-  let:
-  - with let, there is no hoisting
-  
-  
-  
-  - 
-  	
-      var myName = "World"
-  - with let, js throws an error on redeclaring the variable with same name
+- Difference between var and let
