@@ -71,3 +71,13 @@
   It is used for the js present in external files. It only works for the external 
   js file
   ```
+- Difference between onload and DOMContentLoaded events
+- ```
+  onload is trigerred when whole website is loaded, e.g. 
+  - All the primary stuff(layout and structure of the web page)
+  - All the secondary stuff(images, videos, audios, stylesheets etc)
+  
+  DOMContentLoaded is trigerred when all the primary stuff has been loaded.
+  It would not wait for secondary stuuf to load. It would load the img tag but the 
+  actual image would be painted later
+  ```
