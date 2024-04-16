@@ -81,3 +81,6 @@
   It would not wait for secondary stuuf to load. It would load the img tag but the 
   actual image would be painted later
   ```
+- Basic difference between var and let
+- ```
+  ```
