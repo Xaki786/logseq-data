@@ -83,4 +83,8 @@
   ```
 - Basic difference between var and let
 - ```
+  - with var, we can use variable before it's declaration. this is called hoisting
+  - with let, there is no hoisting
+  
+  - with var, we can redeclare 
   ```
