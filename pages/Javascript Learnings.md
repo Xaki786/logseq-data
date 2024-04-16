@@ -60,4 +60,10 @@
   ```
 - use of defer
 - ```
+  defer is used to tell the browser that continue downloading HTML until script 
+  tag is reached.  i.e
+  <script src="./script.js" defer></script>
+  
+  It is used for the js present in external files. It only works for the external 
+  js file
   ```
