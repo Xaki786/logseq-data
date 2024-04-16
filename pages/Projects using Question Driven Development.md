@@ -2,3 +2,4 @@
 - ## Automatic wallpaper changer like Variety
 - ## Daily journal (Web + Mobile)
 - ## Web browser using Rust / Go / C++
+- ## Create another language
