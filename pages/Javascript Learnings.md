@@ -61,7 +61,11 @@
 - use of defer
 - ```
   defer is used to tell the browser that continue downloading HTML until script 
-  tag is reached.  i.e
+  tag is reached. When it is reached, it would download the javascript but won't
+  execute it until HTML loading/parsing is finished. This improves performence by loading 
+  Javascript and HTML simultaneously. For multiple script tags, they will be downloaded
+  and executed in exact order they appeared in the code.
+  i.e
   <script src="./script.js" defer></script>
   
   It is used for the js present in external files. It only works for the external 
