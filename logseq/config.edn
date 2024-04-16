@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["habit tracker app (web + mobile)" "Habit Tracker App(Web + Mobile)" "Deja Vu list" "Useful Resources" "templates" "Tasks Debt" "Project Nirvana" "Javascript Learnings"]
+ :favorites ["Projects using Question Driven Development" "habit tracker app (web + mobile)" "Habit Tracker App(Web + Mobile)" "Deja Vu list" "Useful Resources" "templates" "Tasks Debt" "Project Nirvana" "Javascript Learnings"]
 
  ;; Set flashcards interval.
  ;; Expected value:

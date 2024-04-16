@@ -3,3 +3,5 @@
 - ## Daily journal (Web + Mobile)
 - ## Web browser using Rust / Go / C++ / Node
 - ## Create another language
+- https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
+-
