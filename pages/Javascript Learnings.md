@@ -83,4 +83,11 @@
   ```
 - Basic difference between var and let
 - ```
+  var:
+  - hoisted
+  - redeclaration with same name
+  
+  let:
+  - not hoisted. throws an error if used before it's declaration
+  - redeclaration with same name throws an error
   ```
