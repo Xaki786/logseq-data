@@ -1,4 +1,6 @@
 - |Name| Amount|
-  |Text|More text|
-  |Text|More text|And even more|
+  | Pahari Kemeti | 2000 |
+  | Taxila House Kharcha | 15000
+- |
+-
 -
