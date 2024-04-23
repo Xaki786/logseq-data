@@ -1,5 +1,7 @@
 - React Mastery (week 1)
   logseq.order-list-type:: number
+	- https://github.com/alan2207/bulletproof-react
+	  logseq.order-list-type:: number
 	- Docs fully read and understood and if necessary implemented
 	  logseq.order-list-type:: number
 	- Bullet proof react
