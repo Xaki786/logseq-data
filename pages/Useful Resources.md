@@ -5,6 +5,7 @@
 -
 - ## Web development
 	- [web-development-resources](https://github.com/markodenic/web-development-resources)
+	- https://github.com/goldbergyoni/nodebestpractices
 	-
 - ## Error Handling
 - https://www.toptal.com/nodejs/node-js-error-handling
