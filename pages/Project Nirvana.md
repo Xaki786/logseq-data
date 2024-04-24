@@ -5,6 +5,7 @@
 	- dedicated one always gets 4 pomodoros daily at least
 - ## Thinking
 - Devise something for interview strategy i.e. how often should I research on it.
+- https://exercism.org/tracks
 - Start practicing DSA from early on, i.e. solve one problem daily or at least learn the solution and jot down the learning's along the way
 	- three problems per week
 	- one day grokking algorithms reading and revising the problem and solution for previously solved DSA problem
